@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NightBreakoutMobile</string>
+    <string name="play">Spiel beginnen</string>
+    <string name="points">Deine Punkte:</string>
+</resources>
